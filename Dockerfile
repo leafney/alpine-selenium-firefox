@@ -1,6 +1,6 @@
 # Selenium + Firefox
 
-FROM alpine:latest
+FROM alpine:3.4
 MAINTAINER leafney "babycoolzx@126.com"
 
 # 更新软件源
